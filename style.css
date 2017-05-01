@@ -10,6 +10,7 @@ body{
 }
 img{
 	border:none;
+	margin-bottom:20px;
 }
 .karkas{
 	width:755px;
@@ -52,3 +53,50 @@ img{
 	text-decoration:underline;
 	color:black;
 }
+.main-content{
+	overflow:hidden;
+
+}
+.main-content h2{
+	font:normal 24px "Times New Roman" ;
+	margin-bottom:20px;
+}
+.main-content p{
+	margin-bottom:20px;
+}
+.content-left{
+	background-color:#fff;
+	padding:30px 30px 32000px 30px;
+	margin-bottom:-32000px;
+	float:left;
+	width:420px;
+}
+.right-bar{
+	background-color:#fff;
+	padding:30px 10px 32000px 25px;
+	margin-bottom:-32000px;
+	float:right;
+	width:230px;
+	font-family:"Trebuchet MS" ,Arial, "Times New Roman";
+	font-size:14px;
+}
+.right-bar h2{
+	font-family:Georgia,Arial, "Times New Roman";
+	
+}
+.footer{
+	padding:15px 0 20px 20px;
+	color:#a1a0a7;
+}
+
+
+
+
+
+
+
+
+
+
+
+
